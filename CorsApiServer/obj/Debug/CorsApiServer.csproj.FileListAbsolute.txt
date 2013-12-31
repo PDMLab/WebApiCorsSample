@@ -1,0 +1,33 @@
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\CorsApiServer.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\CorsApiServer.pdb
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\Newtonsoft.Json.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\System.Net.Http.Formatting.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\System.Web.Cors.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\System.Web.Http.Cors.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\System.Web.Http.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\System.Web.Http.WebHost.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\Newtonsoft.Json.xml
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\System.Net.Http.Formatting.xml
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\System.Web.Http.xml
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\System.Web.Http.Cors.xml
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\bin\System.Web.Http.WebHost.xml
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\obj\Debug\CorsApiServer.csprojResolveAssemblyReference.cache
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\obj\Debug\CorsApiServer.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiServer\obj\Debug\CorsApiServer.pdb
+D:\Share\CorsSample\CorsApiServer\bin\CorsApiServer.dll.config
+D:\Share\CorsSample\CorsApiServer\bin\CorsApiServer.dll
+D:\Share\CorsSample\CorsApiServer\bin\CorsApiServer.pdb
+D:\Share\CorsSample\CorsApiServer\bin\Newtonsoft.Json.dll
+D:\Share\CorsSample\CorsApiServer\bin\System.Net.Http.Formatting.dll
+D:\Share\CorsSample\CorsApiServer\bin\System.Web.Cors.dll
+D:\Share\CorsSample\CorsApiServer\bin\System.Web.Http.Cors.dll
+D:\Share\CorsSample\CorsApiServer\bin\System.Web.Http.dll
+D:\Share\CorsSample\CorsApiServer\bin\System.Web.Http.WebHost.dll
+D:\Share\CorsSample\CorsApiServer\bin\Newtonsoft.Json.xml
+D:\Share\CorsSample\CorsApiServer\bin\System.Net.Http.Formatting.xml
+D:\Share\CorsSample\CorsApiServer\bin\System.Web.Http.xml
+D:\Share\CorsSample\CorsApiServer\bin\System.Web.Http.Cors.xml
+D:\Share\CorsSample\CorsApiServer\bin\System.Web.Http.WebHost.xml
+D:\Share\CorsSample\CorsApiServer\obj\Debug\CorsApiServer.csprojResolveAssemblyReference.cache
+D:\Share\CorsSample\CorsApiServer\obj\Debug\CorsApiServer.dll
+D:\Share\CorsSample\CorsApiServer\obj\Debug\CorsApiServer.pdb

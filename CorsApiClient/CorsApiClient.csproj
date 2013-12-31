@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{12B32B06-BE0B-43E4-821D-07BE44049648}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CorsApiClient</RootNamespace>
+    <AssemblyName>CorsApiClient</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bower_components\superagent\.gitignore" />
+    <Content Include="bower_components\superagent\docs\head.html" />
+    <Content Include="bower_components\superagent\docs\tail.html" />
+    <Content Include="bower_components\superagent\examples\simple-get.js" />
+    <Content Include="bower_components\superagent\lib\client.js" />
+    <Content Include="bower_components\superagent\lib\node\agent.js" />
+    <Content Include="bower_components\superagent\lib\node\index.js" />
+    <Content Include="bower_components\superagent\lib\node\parsers\index.js" />
+    <Content Include="bower_components\superagent\lib\node\parsers\json.js" />
+    <Content Include="bower_components\superagent\lib\node\parsers\text.js" />
+    <Content Include="bower_components\superagent\lib\node\parsers\urlencoded.js" />
+    <Content Include="bower_components\superagent\lib\node\part.js" />
+    <Content Include="bower_components\superagent\lib\node\response.js" />
+    <Content Include="bower_components\superagent\lib\node\utils.js" />
+    <Content Include="bower_components\superagent\superagent.js" />
+    <Content Include="bower_components\superagent\test\index.html" />
+    <Content Include="bower_components\superagent\test\jquery.js" />
+    <Content Include="bower_components\superagent\test\json2.js" />
+    <Content Include="bower_components\superagent\test\node\agency.js" />
+    <Content Include="bower_components\superagent\test\node\basic-auth.js" />
+    <Content Include="bower_components\superagent\test\node\basic.js" />
+    <Content Include="bower_components\superagent\test\node\exports.js" />
+    <Content Include="bower_components\superagent\test\node\fixtures\user.html" />
+    <Content Include="bower_components\superagent\test\node\fixtures\user.txt" />
+    <Content Include="bower_components\superagent\test\node\flags.js" />
+    <Content Include="bower_components\superagent\test\node\form.js" />
+    <Content Include="bower_components\superagent\test\node\incoming-multipart.js" />
+    <Content Include="bower_components\superagent\test\node\inflate.js" />
+    <Content Include="bower_components\superagent\test\node\json.js" />
+    <Content Include="bower_components\superagent\test\node\multipart.js" />
+    <Content Include="bower_components\superagent\test\node\network-error.js" />
+    <Content Include="bower_components\superagent\test\node\not-modified.js" />
+    <Content Include="bower_components\superagent\test\node\parsers.js" />
+    <Content Include="bower_components\superagent\test\node\pipe.js" />
+    <Content Include="bower_components\superagent\test\node\query.js" />
+    <Content Include="bower_components\superagent\test\node\redirects-other-host.js" />
+    <Content Include="bower_components\superagent\test\node\redirects.js" />
+    <Content Include="bower_components\superagent\test\node\response-readable-stream.js" />
+    <Content Include="bower_components\superagent\test\node\timeout.js" />
+    <Content Include="bower_components\superagent\test\node\toError.js" />
+    <Content Include="bower_components\superagent\test\node\utils.js" />
+    <Content Include="bower_components\superagent\test\server.js" />
+    <Content Include="bower_components\superagent\test\test.js" />
+    <Content Include="bower_components\superagent\test\test.request.js" />
+    <Content Include="bower_components\superagent\test\test.utils.js" />
+    <Content Include="default.htm" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bower_components\superagent\.bower.json" />
+    <Content Include="bower_components\superagent\.npmignore" />
+    <Content Include="bower_components\superagent\.travis.yml" />
+    <Content Include="bower_components\superagent\component.json" />
+    <Content Include="bower_components\superagent\docs\index.md" />
+    <Content Include="bower_components\superagent\History.md" />
+    <Content Include="bower_components\superagent\Makefile" />
+    <Content Include="bower_components\superagent\package.json" />
+    <Content Include="bower_components\superagent\Readme.md" />
+    <Content Include="bower_components\superagent\test\node\fixtures\user.json" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:52806/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

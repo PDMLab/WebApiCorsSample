@@ -1,0 +1,11 @@
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiClient\bin\CorsApiClient.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiClient\bin\CorsApiClient.pdb
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiClient\obj\Debug\CorsApiClient.dll
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiClient\obj\Debug\CorsApiClient.pdb
+C:\Users\ZE\Documents\Visual Studio 2012\Projects\CorsSample\CorsApiClient\obj\Debug\CorsApiClient.csprojResolveAssemblyReference.cache
+D:\Share\CorsSample\CorsApiClient\bin\CorsApiClient.dll.config
+D:\Share\CorsSample\CorsApiClient\bin\CorsApiClient.dll
+D:\Share\CorsSample\CorsApiClient\bin\CorsApiClient.pdb
+D:\Share\CorsSample\CorsApiClient\obj\Debug\CorsApiClient.csprojResolveAssemblyReference.cache
+D:\Share\CorsSample\CorsApiClient\obj\Debug\CorsApiClient.dll
+D:\Share\CorsSample\CorsApiClient\obj\Debug\CorsApiClient.pdb
